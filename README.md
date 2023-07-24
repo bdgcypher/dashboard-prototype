@@ -4,9 +4,9 @@ This project is a data dashboard prototype that I built for Branch.
 
 ## Features
 
-*Beautifully styled components
-*Responsive components that animate and update as filters are applied.
-*Graphs and charts built with the React-vis charting library.
+* Beautifully styled components
+* Responsive components that animate and update as filters are applied.
+* Graphs and charts built with the React-vis charting library.
 
 ## Usage
 
